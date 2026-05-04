@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="SocioNet (ServiceXchange)"
               description="A social service platform connecting NGOs, hospitals, restaurants, and volunteers. It enables surplus food distribution, blood donation tracking, and volunteer coordination with a clean and user-friendly interface."
-              ghLink="https://github.com/vanshiraj"
+              ghLink="https://github.com/vanshiraj/Socionet"
             />
           </Col>
 
